@@ -1,0 +1,11 @@
+#ifndef PROJET_2022_2023_ECE_WORLD_ECE_WORLD_Q_SNAKE_H
+#define PROJET_2022_2023_ECE_WORLD_ECE_WORLD_Q_SNAKE_H
+
+#include "../manege.h"
+
+
+void snake(ALLEGRO_EVENT_QUEUE *queue, ALLEGRO_DISPLAY *display,ALLEGRO_FONT *police,Personnage *p1,Personnage *p2);
+
+
+
+#endif //PROJET_2022_2023_ECE_WORLD_ECE_WORLD_Q_SNAKE_H
